@@ -97,10 +97,12 @@
                 <version>1.18.28</version> <!-- Use the latest version -->
             </path>
         </annotationProcessorPaths>
-    </configuration>            
+    </configuration>      
+			</plugin>
       </plugins>
     </pluginManagement>
   </build>
   
   <version>0.0.1-SNAPSHOT</version>
+
 </project>
